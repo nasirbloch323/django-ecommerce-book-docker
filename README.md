@@ -4,7 +4,7 @@
 
 
 # Django-Ecommece-Bookstore
-<p>An online bookshop developed in django-3 which allow users to purchase books online :) </p>
+<p>An online bookshop developed in django-3   which allow users to purchase books online :) </p>
 
 <img src="https://github.com/YashMarmat/Pages-App-django/blob/master/templates/dj-ecom-bstore-pic2.png?raw=true">
 
