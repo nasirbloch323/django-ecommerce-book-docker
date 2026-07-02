@@ -2,7 +2,7 @@ version: '3'
 services:
   web:
     build: .
-    container_name: web_container
+    container_name: web_container1
     ports:
       - "8000:8000"
     command: > 
