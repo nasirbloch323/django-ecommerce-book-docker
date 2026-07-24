@@ -1,4 +1,4 @@
-# Django E-commerce Book Store 📚
+# Django E-commerce Book Store  & Muti-Branch📚
 
 A Django-based e-commerce web application for buying and selling books — fully containerized with Docker and integrated with a Jenkins CI/CD pipeline for automated build, test, and deployment.
 
